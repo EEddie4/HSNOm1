@@ -1,5 +1,7 @@
 Almost a Circle
+
 Learning Objectives
+
 What is Unit testing and how to implement it in a large project
 How to serialize and deserialize a Class
 How to write and read a JSON file
